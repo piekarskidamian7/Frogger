@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 711, y: 374}
   m_MaxSize: {x: 18006, y: 14024}
   vertical: 0
-  controlID: 494
+  controlID: 771
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,7 +130,7 @@ MonoBehaviour:
   m_MinSize: {x: 230, y: 374}
   m_MaxSize: {x: 10000, y: 14024}
   vertical: 1
-  controlID: 425
+  controlID: 772
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,9 +190,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 0.35877174, y: 1.5046691, z: -0.14735809}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 0.35877174, y: 1.5046691, z: -0.14735809}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -224,9 +224,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 22.391272
     speed: 2
-    m_Value: 10
+    m_Value: 22.391272
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -328,19 +328,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Factory/Strategy
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Factory/Strategy
+  - Assets
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: C:\Users\Damian\Desktop\MarcinBys-frogger-1627d3893bb4
+  m_LastProjectPath: C:\Users\Damian\Documents\GitHub\Frogger
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4c270000
-    m_LastClickedID: 10060
+    m_SelectedIDs: 24260000
+    m_LastClickedID: 9764
     m_ExpandedIDs: 0000000024260000ac26000048270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -394,8 +394,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 0e260000
-    m_LastClickedInstanceID: 9742
+    m_SelectedInstanceIDs: cc290000
+    m_LastClickedInstanceID: 10700
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000982a0000de09000000000000
     m_RenameOverlay:
@@ -443,8 +443,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 635
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -481,7 +481,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d6fbffff
+      m_ExpandedIDs: d6fbffffae290000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
